@@ -1,3 +1,3 @@
 # MusicApp
  
-![MusicApp.gif]
+![](MusicApp.gif)
